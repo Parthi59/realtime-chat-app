@@ -1,4 +1,3 @@
-<img width="945" height="645" alt="Screenshot 2026-03-05 211142" src="https://github.com/user-attachments/assets/143066a8-3bd4-449d-8c76-face66c0e33f" /># Real-Time Chat App (Node.js + Express + MongoDB Atlas + Socket.io)
 
 ## Features
 - Register/Login using JWT
