@@ -25,5 +25,7 @@ npm test
 
 <img width="945" height="645" alt="Screenshot 2026-03-05 211142" src="https://github.com/user-attachments/assets/4ca63e1d-2fa9-45bc-9628-02d8e62f9b7a" />
 
+<img width="1741" height="442" alt="Screenshot 2026-03-05 213934" src="https://github.com/user-attachments/assets/1916b24d-be85-4e3e-9646-daa9fbdb84e2" />
+
 <img width="730" height="391" alt="Screenshot 2026-03-05 211034" src="https://github.com/user-attachments/assets/38ce48d8-360a-41b2-a5d3-c076d995e865" />
 
