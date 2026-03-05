@@ -1,3 +1,4 @@
+# Real-Time Chat App (Node.js + Express + MongoDB Atlas + Socket.io)
 
 ## Features
 - Register/Login using JWT
